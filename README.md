@@ -1,4 +1,4 @@
-### Hi there 👋  My name is Kwon Seyoon
+### Hi there 👋  My name is Keon Seyoon
 
 <!--
 **math-odd/math-odd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
