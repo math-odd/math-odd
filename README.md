@@ -6,4 +6,5 @@
 ### I'm the leader of team3, which name is annoying potatoes in CSE2024
 
 
-https://github.com/g1thurb/market4BackendIntern <- my swe intern portfolio account
+**Backend Engineering Portfolio:** 
+[market4BackendIntern](https://github.com/g1thurb/market4BackendIntern) — Java, Spring Boot, PostgreSQL, and concurrency testing.
